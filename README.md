@@ -5,7 +5,7 @@ Este repositório tem como objetivo contribuir com o aprendizado dos estudantes 
 Aqui você pode encontrar guias de estudo para as seguintes tecnologias:
 
 - [Javascript](https://github.com/MatheusLetra/Guias-De-Estudos/blob/main/Javascript.md)
-
+- [Typescript](https://github.com/MatheusLetra/Guias-De-Estudos/blob/main/Typescript.md)
 
 # Contribuição
 
