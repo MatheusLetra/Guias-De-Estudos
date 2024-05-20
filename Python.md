@@ -430,4 +430,4 @@ pytest
 
 - **Python**: [Site Oficial](https://www.python.org/)
 - **pip**: [Documentação](https://pip.pypa.io/en/stable/)
-- **virtualenv**: [Documentação](https://virtualenv.pypa
+- **virtualenv**: [Documentação](https://virtualenv.pypa)
