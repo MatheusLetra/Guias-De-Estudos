@@ -8,6 +8,7 @@ Aqui você pode encontrar guias de estudo para as seguintes tecnologias:
 - [Typescript](https://github.com/MatheusLetra/Guias-De-Estudos/blob/main/Typescript.md)
 - [Node.js](https://github.com/MatheusLetra/Guias-De-Estudos/blob/main/NodeJS.md)
 - [React.js](https://github.com/MatheusLetra/Guias-De-Estudos/blob/main/ReactJs.md)
+- [Python](https://github.com/MatheusLetra/Guias-De-Estudos/blob/main/Python.md)
 
 # Contribuição
 
